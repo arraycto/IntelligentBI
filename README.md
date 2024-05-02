@@ -12,7 +12,8 @@
 
 ### 项目架构
 
-![image-20240502152219159](C:\Users\Bai Bai\AppData\Roaming\Typora\typora-user-images\image-20240502152219159.png)
+![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/b221a27e-2070-42fe-9631-3cd8e59968f5)
+
 
 ## 
 
